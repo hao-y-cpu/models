@@ -17,7 +17,7 @@
 Architecture: https://arxiv.org/abs/1801.04381
 
 The base model gives 72.2% accuracy on ImageNet, with 300MMadds,
-3.4 M parameters.
+3.4 M parameters
 """
 
 from __future__ import absolute_import
